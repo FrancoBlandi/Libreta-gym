@@ -1,0 +1,17 @@
+LIBRETA DE GYM - versión instalable sin conexión
+
+SUBIR A VERCEL
+Opción A (terminal, dentro de esta carpeta):
+  npm i -g vercel
+  vercel --prod
+Opción B (GitHub): subí esta carpeta a un repo nuevo y en vercel.com elegí
+  Add New > Project > Import. Framework: Other. Sin build command.
+
+INSTALAR EN EL TELÉFONO (una sola vez, con conexión)
+  Android (Chrome): abrí la URL > menú ⋮ > "Agregar a pantalla principal" / "Instalar app".
+  iPhone (Safari): abrí la URL > Compartir > "Agregar a inicio".
+Después abrila siempre desde el ícono. Funciona sin señal.
+
+DATOS
+  Se guardan solo en el teléfono. En Historial: "Guardar respaldo" baja un .json,
+  "Importar respaldo" lo restaura. Arranca con tus 5 sesiones cargadas hasta el 2 oct 2026.
